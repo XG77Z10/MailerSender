@@ -7,5 +7,6 @@
 
 Note: 
 ```bash
-$ Script ini mengandalkan IP Public Shell Backdor
+$ Script ini mengandalkan IP Public Domain
+$ Script ini Jika Ada Error Berarti Tidak Support Sendmail Shell Backdornya
 ```
